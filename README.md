@@ -40,7 +40,26 @@ Based on these checks, the password is classified as:
 - Very Strong
 
 ---
+# How to Run
 
+## Step 1
+Install Python on your system.
+
+## Step 2
+Download or clone this repository.
+
+## Step 3
+Open terminal or command prompt.
+
+## Step 4
+Run the Python file:
+```bash
+main.py
+```
+## Step 5
+Enter a password to check its strength.
+
+---
 # Example Output
 
 Enter your password:
